@@ -35,7 +35,7 @@ Provide User Input:
 The script will prompt you to enter the following details:
 
 Enter Age (years): (e.g., 25)
-
+<br>
 Enter Weight (kg): (e.g., 70.5)
 
 Enter Height (cm): (e.g., 175)
