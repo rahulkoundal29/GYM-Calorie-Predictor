@@ -26,12 +26,6 @@ RandomForestRegressor: The machine learning algorithm used for predicting calori
 
 Joblib: For efficient saving and loading of the trained machine learning model.
 
-# Project Structure
-GYM-Calorie-Predictor/
-├── ML.GYM Calorie prediction.pdf  # Project Report
-├── calorie_predictor.py           # Main Python script for the model
-├── gym_diet_planner_dataset.csv   # Dataset used for training the model
-└── README.md                      # This README file
 # How to Run
 Execute the Python Script:
 
